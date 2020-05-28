@@ -47,6 +47,7 @@
     "typescript": "^3.9.3"
   },
   "dependencies": {
+    "@pokt-network/ed25519": "git+https://github.com/pokt-network/ed25519.git",
     "body-parser": "^1.19.0",
     "bonjour": "github:abedinpour/bonjour#refactoring_and_update_txt_support",
     "chacha-native": "git+https://github.com/calvinmetcalf/chacha-native.git",
